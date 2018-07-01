@@ -1,0 +1,4 @@
+class CurrentAccount extends Account
+{
+	
+}
